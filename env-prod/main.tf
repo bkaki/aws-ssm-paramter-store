@@ -6,3 +6,4 @@ resource "aws_ssm_parameter" "parameters" {
   key_id = "6cdab819-cbbe-4a31-9fb9-40cefb302d8c"
 }
 
+
